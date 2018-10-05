@@ -1,0 +1,10 @@
+cd document
+git clone https://github.com/GhadiNF/useGithub.git
+git status tells you what changes to the file
+git add "file_name.ex" gets added to repost. and evert one see it but it is not uploaded to git yet
+git commit -m "added the file" senf a mssage and commit it to git
+got add adds file to git
+
+git pull pulls every file
+
+git comnit w/o the -m gives you a thing to exit hit [esc] and then :wq
